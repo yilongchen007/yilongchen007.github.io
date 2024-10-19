@@ -26,3 +26,5 @@ jobs:
       - run: pip install mkdocs-material 
         # 使用mkdocs-material部署gh-pages分支
       - run: mkdocs gh-deploy --force
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 这里传递 GITHUB_TOKEN
