@@ -1,0 +1,10 @@
+site_name: My Docs
+theme:
+  name: material
+  language: en
+
+
+nav:
+  - Home: index.md
+  - Page1: page1.md
+
