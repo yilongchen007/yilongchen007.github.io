@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I am a graduate student in the Department of Statistics at the University of Chicago. 
 
-## Commands
+My reserach focuses on combining machine learning and statistical models, with an emphasis on Bayesian methods. While I have past experience in deep learning, my recent work aims to apply these hybrid techniques to complex real-world problems, such as predicting political events and understanding gene perturbation effects.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Before this, I received a Bachelor's degree in Statistics from Fudan University in 2023. And I have interned at eBay, Henkel, and Dewu Inc.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> **"That the powerful play goes on, and you may contribute a verse."**  
+> *—— O Me! O Life! , by Walt Whitman*
