@@ -7,7 +7,9 @@ nav:
   - Home: index.md
   - Projects: 
     - CVAE-based Probabilistic Tensor Factorization: projects/cvae.md
-    - Sequential Experimental Design of Perturbation Screens: projects/scseq.md
+    - Sequential Experimental Design of Perturbation Screens: 
+      - Intro: projects/scseq.md
+      - Celloracle_pretraining: projects/celloracle_pretraining.ipynb
 
 #
 # Theme settings

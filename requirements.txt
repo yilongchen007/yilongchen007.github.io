@@ -7,5 +7,8 @@ mkdocs-exclude==1.0.2
 mkdocs-get-deps==0.2.0
 mkdocs-git-revision-date-localized-plugin==1.2.9
 mkdocs-glightbox==0.4.0
-mkdocs-jupyter==0.25.1
+mkdocs-jupyter==0.24.7
 mkdocs-material==9.5.41
+notebook==6.5.1
+jupyter_contrib_nbextensions==0.7.0
+jupyter_nbextensions_configurator==0.6.4
