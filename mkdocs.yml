@@ -6,8 +6,8 @@ site_description: Yilong's personal website.
 nav:
   - Home: index.md
   - Projects: 
-    - CVAE-based Probabilistic Tensor Factorization: cvae.md
-    - Sequential Experimental Design of Perturbation Screens: scseq.md
+    - CVAE-based Probabilistic Tensor Factorization: projects/cvae.md
+    - Sequential Experimental Design of Perturbation Screens: projects/scseq.md
 
 #
 # Theme settings
